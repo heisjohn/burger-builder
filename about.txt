@@ -1,0 +1,1 @@
+The text on burger builder may be formatted and centered oddly because it was written on a Macbook and it did not transfer well to Windows computers
